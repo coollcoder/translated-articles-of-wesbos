@@ -23,3 +23,7 @@
   JavaScript modules allow us to chunk our code into separate files inside our project or to use open source modules that we can install via npm. Writing your code in modules helps with organization, maintenance, testing, and most importantly, dependency management.
 
   `JavaScript modules`允许我们将代码成块的分离成文件到我们的项目中或者通过安装NPM`Node.js的模块依赖管理工具`来使用开源的模块.依靠模块编写代码时可以帮助你组织,维护,测试你的项目,更重要的是,`JavaScript modules`依赖管理.
+  
+  When we write JavaScript, it’s ideal if we can make modules that do one thing and one thing well. This separation allows us to pull in various modules only when we need them. Modules represent the core principle behind npm — when we need specific functionality, we can install the modules we need and load them into our application.
+  
+  当我们编写JavaScript代码时,如果我们能做出能完成一件事或者把事情完成得更棒的模块是理想的情况.而这种分离允许我们拉动(使用)这些模块仅当我们需要它们的时候.模块代表着NPM背后的核心原则 - 当我们需要特定的功能时,我们可以安装加载我们所需要的模块到我们的应用程序里.

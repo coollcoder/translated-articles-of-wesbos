@@ -1,8 +1,8 @@
-#### the original http://wesbos.com/javascript-modules/
-#An Intro To Using npm and ES6 Modules for Front End Development
-#### 将npm 和ES6模块机制用在前端开发中的一些相关信息
+# the original http://wesbos.com/javascript-modules/
+##An Intro To Using npm and ES6 Modules for Front End Development
+将npm 和ES6模块机制用在前端开发中的一些相关信息
 
-####A big thanks to bitHound for sponsoring my time to research and write this article. Check out their service, which provides continuous analysis and quality checks for both your front and back end JavaScript and its dependencies.
+- <b>A big thanks to bitHound for sponsoring my time to research and write this article. Check out their service, which provides continuous analysis and quality checks for both your front and back end JavaScript and its dependencies.</b>
 ####很感谢bitHound赞助我研究和撰写这篇文章。研究他们的提供的服务，他们的服务提供了持续的分析和质量的检查，在前端和后端的js和其相应的依赖。
 
 ####The JavaScript landscape is changing quickly and along with it the way that we work with dependencies in our websites and applications.

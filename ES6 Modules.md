@@ -28,3 +28,7 @@
   When we write JavaScript, it’s ideal if we can make modules that do one thing and one thing well. This separation allows us to pull in various modules only when we need them. Modules represent the core principle behind npm — when we need specific functionality, we can install the modules we need and load them into our application.
   
   当我们编写JavaScript代码时,如果我们能做出能完成一件事或者把事情完成得更棒的模块是理想的情况.而这种分离允许我们拉动(使用)这些模块仅当我们需要它们的时候.模块代表着NPM背后的核心原则 - 当我们需要特定的功能时,我们可以安装加载我们所需要的模块到我们的应用程序里.
+  
+  As time goes on, we’re seeing fewer large frameworks that do everything under the sun while seeing more small modules that do one thing and one thing well.
+  
+  随着时间的推移,我们可以在阳光下看见更少的用来完成很多事情的大框架但是出现了更多更小的只完成一件事或者优化一件事的小模块.

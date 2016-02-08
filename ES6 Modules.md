@@ -32,3 +32,7 @@
   As time goes on, we’re seeing fewer large frameworks that do everything under the sun while seeing more small modules that do one thing and one thing well.
   
   随着时间的推移,我们可以在阳光下看见更少的用来完成很多事情的大框架但是出现了更多更小的只完成一件事或者优化一件事的小模块.
+  
+  For example, many of us learned jQuery. It included methods for doing absolutely everything from CSS manipulation to ajax calls. Now, many of us are migrating to libraries like React where often we need to pull in additional packages to perform tasks like ajax or routing.
+  
+  例如,很多人学习了jQuery. 

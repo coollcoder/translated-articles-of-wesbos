@@ -35,4 +35,5 @@
   
   For example, many of us learned jQuery. It included methods for doing absolutely everything from CSS manipulation to ajax calls. Now, many of us are migrating to libraries like React where often we need to pull in additional packages to perform tasks like ajax or routing.
   
-  例如,很多人学习了jQuery. 
+  例如，大多数人都学过jq.jq涵盖了一切从操作css到调用ajax的方法.而如今,大多数人开始迁移到了像react(前端框架）这种库去.通常来说,在用react的时候,我们只需要将其他依赖包加载进来就可以执行任务了,像执行ajax和路由这种任务.
+

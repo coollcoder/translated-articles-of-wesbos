@@ -47,3 +47,5 @@
   
 ## Current workflow
 **工作流**
+
+- Many workflows for JavaScript look like this:|JavaScript的许多工作流程是这样的：

@@ -48,7 +48,8 @@
 ## Current workflow
 **工作流**
 
-- Many workflows for JavaScript look like this:|JavaScript的许多工作流程是这样的：
+- Many workflows for JavaScript look like this:
+- JavaScript的许多工作流程是这样的：
 
 1. Find a plugin or library that you want and download it from GitHub
   
@@ -62,5 +63,9 @@
 
   通过一个全局变量或作为一个jQuery插件来访问
 
-## This type of workflow has worked fairly well for years, but not without its issues:
-**这种类型的工作流程已工作相当好几年了，但不是没有它的问题：**
+- This type of workflow has worked fairly well for years, but not without its issues:
+- 这种类型的工作流程已工作相当好几年了，但不是没有它的问题：
+ 
+1. Updates to the plugins have to be done manually — it’s hard to know when there are critical bug fixes or new functionality available.
+ 
+  更新插件必须手动完成 \- 这是很难知道什么时候有严重的bug修补或新功能可用。

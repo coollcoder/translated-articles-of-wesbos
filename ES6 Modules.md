@@ -49,3 +49,15 @@
 **工作流**
 
 - Many workflows for JavaScript look like this:|JavaScript的许多工作流程是这样的：
+
+1. Find a plugin or library that you want and download it from GitHub
+  
+  找到你想要一个插件或库，并从GitHub下载
+
+2. Load it into your website via a script tag
+
+  通过脚本标签加载到您的网站
+  
+3. Access it via a global variable or as a jQuery plugin
+
+  通过一个全局变量或作为一个jQuery插件来访问

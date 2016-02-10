@@ -61,3 +61,6 @@
 3. Access it via a global variable or as a jQuery plugin
 
   通过一个全局变量或作为一个jQuery插件来访问
+
+## This type of workflow has worked fairly well for years, but not without its issues:
+**这种类型的工作流程已工作相当好几年了，但不是没有它的问题：**

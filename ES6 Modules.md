@@ -40,3 +40,9 @@
   This article will take a look at using npm and ES6 Modules. There are other registries (e.g. Bower) and other module loaders (e.g. CommonJS and AMD), but there are plenty of articles already on those topics.
   
   本文将介绍下使用NPM和ES6模块.还有其他登记的(如Bower)等模块加载器(例如CommonJS和AMD),但是有很多文章已经针对这些议题.
+
+  Whether you are doing Node or front end development, I believe that ES6 modules and npm are the way forward. If you look at any of the popular open source projects today, such as React or lodash, you’ll see they have also adopted ES6 modules + npm.
+  
+  无论你是做节点或前端方向,我相信ES6模块或者NPM是一个发展的方向.如今你看看任何流行的开源项目,如React或者lodash,你都会看到他们也都采用了ES6+NPM.
+  
+  

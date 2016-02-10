@@ -37,3 +37,6 @@
   
   例如，大多数人都学过jq.jq涵盖了一切从操作css到调用ajax的方法.而如今,大多数人开始迁移到了像react(前端框架）这种库去.通常来说,在用react的时候,我们只需要将其他依赖包加载进来就可以执行任务了,像执行ajax和路由这种任务.
 
+  This article will take a look at using npm and ES6 Modules. There are other registries (e.g. Bower) and other module loaders (e.g. CommonJS and AMD), but there are plenty of articles already on those topics.
+  
+  本文将介绍下使用NPM和ES6模块.还有其他登记的(如Bower)等模块加载器(例如CommonJS和AMD),但是有很多文章已经针对这些议题.
